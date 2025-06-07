@@ -1,0 +1,9 @@
+Flask
+opencv-python-headless
+ultralytics
+numpy
+tensorflow
+Pillow
+torch
+torchvision
+torchaudio
